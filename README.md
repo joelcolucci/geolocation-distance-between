@@ -1,4 +1,4 @@
-# geolocation-distance-between
+# geolocation-distance-between [![NPM version](https://img.shields.io/npm/v/geolocation-distance-between.svg)](https://www.npmjs.com/package/geolocation-distance-between)
 > ES6 module to calculate distance between coordinates
 
 ## Installation
